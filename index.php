@@ -1,6 +1,6 @@
 <?php
 
-include_once("MUSIC PLAYER");
+include_once("index.html");
 
 
 ?>
